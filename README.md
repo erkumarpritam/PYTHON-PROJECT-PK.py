@@ -12,4 +12,3 @@ Lists: Used to maintain the static inventory of seats (1 to 10).
 Dictionaries: Acts as a key-value store (seat_number: passenger_name) for fast lookups and record management.
 Control Flow & Functions: Utilizes continuous while loops, conditional branching (if-elif-else), and modular functions (view_seats, book_seat, cancel_booking) to keep code clean and maintainable.
 Error Handling: Implements try-except blocks to prevent application crashes from unexpected inputs (e.g., entering text instead of numbers).
-⚙️ How to Run
